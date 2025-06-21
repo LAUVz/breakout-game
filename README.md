@@ -58,7 +58,7 @@ After completing all levels, the game cycles back to Level 1 with increased diff
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone (https://github.com/LAUVz/breakout-game.git
 cd breakout-game
 ```
 
