@@ -1,0 +1,24 @@
+{
+  "name": "breakout-game",
+  "version": "1.0.0",
+  "description": "Breakout game in writen in js using canvas!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run lint && nodemon --exec node server.js --unhandled-rejections=warn",
+    "lint": "eslint --ext .js src --fix"
+  },
+  "author": "Henrijs Kons",
+  "license": "ISC",
+  "devDependencies": {
+    "connect-livereload": "^0.6.1",
+    "eslint": "^7.30.0",
+    "livereload": "^0.9.3",
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0"
+  }
+}
