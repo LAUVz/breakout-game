@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "connect-livereload": "^0.6.1",
-    "eslint": "^7.30.0",
+    "eslint": "^7.32.0",
     "livereload": "^0.9.3",
     "nodemon": "^2.0.12"
   },
